@@ -1,5 +1,5 @@
 {
-  "name": "mnel/peach",
+  "name": "mnel/peach-extensions-laravel",
   "description": "A set of laravel implementations for peach payments PHP Client",
   "authors": [
     {
