@@ -1,0 +1,20 @@
+{
+  "name": "mnel/peach",
+  "description": "A set of laravel implementations for peach payments PHP Client",
+  "authors": [
+    {
+      "name": "Michael Nel",
+      "email": "michael.a.nel1@gmail.com"
+    }
+  ],
+  "require": {
+    "mnel/peach": "dev-master",
+    "illuminate/support": "4.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mnel\\Peach\\Extensions\\Laravel\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
